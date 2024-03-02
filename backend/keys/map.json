@@ -1,0 +1,692 @@
+{
+  "144": {
+    "0": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "1": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "2": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "3": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "4": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "5": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "6": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "7": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "8": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "16": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "17": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "18": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "19": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "20": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "21": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "22": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "23": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "24": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "32": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "33": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "34": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "35": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "36": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "37": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "38": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "39": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "40": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "48": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "49": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "50": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "51": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "52": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "53": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "54": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "55": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "56": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "64": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "65": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "66": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "67": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "68": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "69": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "70": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "71": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "72": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "80": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "81": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "82": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "83": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "84": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "85": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "86": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "87": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "88": {
+      "default": {
+        "active": false,
+        "color": "1",
+        "mode": "toggle",
+        "action": [
+          "press_f24"
+        ]
+      }
+    },
+    "96": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "97": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "98": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "99": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "100": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "101": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "102": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "103": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "104": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "112": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "113": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "114": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "115": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "116": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "117": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "118": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "119": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "120": {
+      "default": {
+        "active": true,
+        "color": "127",
+        "mode": "switched",
+        "action": [
+          "sync_sync"
+        ]
+      }
+    }
+  },
+  "176": {
+    "104": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "105": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "106": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "107": {
+      "default": {
+        "active": false,
+        "color": "16",
+        "action": []
+      }
+    },
+    "108": {
+      "1": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_default"
+        ]
+      },
+      "2": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_default"
+        ]
+      },
+      "3": {
+        "active": true,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_default"
+        ]
+      },
+      "default": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_default"
+        ]
+      }
+    },
+    "109": {
+      "1": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_1"
+        ]
+      },
+      "2": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_1"
+        ]
+      },
+      "3": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_1"
+        ]
+      },
+      "default": {
+        "active": true,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_1"
+        ]
+      }
+    },
+    "110": {
+      "1": {
+        "active": true,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_2"
+        ]
+      },
+      "2": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_2"
+        ]
+      },
+      "3": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_2"
+        ]
+      },
+      "default": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_2"
+        ]
+      }
+    },
+    "111": {
+      "1": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_3"
+        ]
+      },
+      "2": {
+        "active": true,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_3"
+        ]
+      },
+      "3": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_3"
+        ]
+      },
+      "default": {
+        "active": false,
+        "color": "16",
+        "group": "profiles",
+        "action": [
+          "profile_3"
+        ]
+      }
+    }
+  },
+  "groups": {
+    "profiles": {
+      "mode": "toggle",
+      "keys": [
+        "176_108",
+        "176_109",
+        "176_110",
+        "176_111"
+      ]
+    }
+  },
+  "profile": "default"
+}
